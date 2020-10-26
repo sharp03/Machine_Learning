@@ -1,2 +1,3 @@
 # Machine_Learning
-This repository is intended for the machine learning related algorithms notes, scripts etc 
+
+This repositery is intended for Machine Learning related learning projects
